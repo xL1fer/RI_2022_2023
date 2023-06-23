@@ -1,0 +1,1 @@
+python main.py indexer collections/pubmed_2022_small.jsonl.gz pubmedSPIMIindex --tk.minL 2 --tk.stopwords stopw.txt --tk.stemmer potterNLTK

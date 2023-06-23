@@ -1,0 +1,21 @@
+:: Statistics (System 1) ::
+> Total indexing time: 572.157 seconds
+> Total merging time: 20.615 seconds
+> Number of temporary index files: 2
+> Total index size: 144.123 MBytes
+> Vocabulary Size (number of terms): 528336
+> Available system memory: 2.000 GBytes
+> Memory threshold used: 1.200 GBytes
+
+
+#############################################
+
+
+:: Statistics (System 2) ::
+> Total indexing time: 480.182 seconds
+> Total merging time: 15.518 seconds
+> Number of temporary index files: 1
+> Total index size: 144.123 MBytes
+> Vocabulary Size (number of terms): 528336
+> Available system memory: 2.000 GBytes
+> Memory threshold used: 1.200 GBytes
