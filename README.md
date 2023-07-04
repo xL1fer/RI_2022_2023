@@ -1,6 +1,6 @@
 # RI-2022 practical assignment (IR-system)
 
-This repository contains the started code to build a fully functional IR system, it was projected to serve as guidelines to the RI students during their class assignments. Here, the students will find a definition of a generic enough search engine API, that they should complete with the most adequate IR methods learned during the classes.
+Fully functional IR system. Here, there can be find a definition of a generic enough search engine API, that was completed and implemented with the most adequate IR methods learned during the classes.
 
 
 ## Table-of-Contents
