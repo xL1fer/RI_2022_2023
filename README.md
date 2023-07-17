@@ -1,6 +1,6 @@
 # RI-2022 practical assignment (IR-system)
 
-Fully functional IR system. Here, there can be find a definition of a generic enough search engine API, that was completed and implemented with the most adequate IR methods learned during the classes.
+Fully functional IR system. Here can be found a definition of a generic enough search engine API, that was completed and implemented with the most adequate IR methods learned during the classes.
 
 
 ## Table-of-Contents
